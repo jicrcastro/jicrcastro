@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 Soy economista & master en data science, con estudios y cursos en areas que me apasionan día a día de mejorar como Machine learning, MLOps, SQL, Deep Learning, LLM, IA, métodos de optimización, automatizaciones con MCP (Model Context Protocol), entre otros.
 
 
-![img](https://f004.backblazeb2.com/file/documentos-jicr/banner+temp2.png)
+![img](https://i.imgur.com/JQMFiAn.png)
