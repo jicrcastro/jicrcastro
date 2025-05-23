@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jicrcastro/jicrcastro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+<h1> Hola, ¡soy José! 👋</h1>
+</div>
+Soy economista & master en data science, con estudios y cursos en areas que me apasionan día a día de mejorar como Machine learning, MLOps, SQL, Deep Learning, LLM, IA, métodos de optimización, automatizaciones con MCP (Model Context Protocol), entre otros.
